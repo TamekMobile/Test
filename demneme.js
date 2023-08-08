@@ -6,6 +6,7 @@ const demneme = () => {
     <View>
       <Text>deneme</Text>
       <Text>alooo</Text>
+      <Text>deneme 124341</Text>
     </View>
   )
 }
