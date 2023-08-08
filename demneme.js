@@ -5,6 +5,7 @@ const demneme = () => {
   return (
     <View>
       <Text>deneme</Text>
+      <Text>alooo</Text>
     </View>
   )
 }
